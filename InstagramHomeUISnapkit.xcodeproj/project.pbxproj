@@ -31,6 +31,7 @@
 		AA8EFFD32B87202C00C972EC /* PostTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostTableCell.swift; sourceTree = "<group>"; };
 		AA8EFFD52B8731B600C972EC /* StoryItemCollectionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryItemCollectionCell.swift; sourceTree = "<group>"; };
 		AA8EFFD72B87437500C972EC /* LogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoView.swift; sourceTree = "<group>"; };
+		AA9A2A892B8760C0007819E0 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +49,7 @@
 		AA64DDC82B8680020049476C = {
 			isa = PBXGroup;
 			children = (
+				AA9A2A892B8760C0007819E0 /* Readme.md */,
 				AA64DDD32B8680020049476C /* InstagramHomeUISnapkit */,
 				AA64DDD22B8680020049476C /* Products */,
 			);
