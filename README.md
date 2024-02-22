@@ -1,3 +1,4 @@
 #  <#Title#>
 
-/var/folders/1q/0t3mrb5s1vz2lhggt927lcgh0000gn/T/simulator_screenshot_A428680C-AF8D-412B-9766-FE4C6A64C24C.png
+![Simulator Screenshot - iPhone 14 Pro - 2024-02-22 at 14 01 38](https://github.com/ugurhmz/SnapKitInstagramHomeUI/assets/13710309/78aed618-50b9-4239-a57f-1b4d52222a1e)
+
